@@ -9,5 +9,4 @@ public interface IAmis<T extends Comparable<T>> {
     void union(T v1, T v2);
 
     void isoler(T v);
-
 }
