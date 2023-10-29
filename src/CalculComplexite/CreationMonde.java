@@ -3,7 +3,6 @@ package CalculComplexite;
 import Amis.IAmis;
 
 public class CreationMonde {
-    //private Integer[] amis;
 
     public static void creerMonde(IAmis monde, int n) {
         for (int i = 0; i < n; ++i)
